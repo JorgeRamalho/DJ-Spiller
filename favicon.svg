@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="SPILER">
+  <rect width="64" height="64" rx="14" fill="#0c0b0a"/>
+  <circle cx="32" cy="32" r="22" fill="none" stroke="#e25b2a" stroke-width="3"/>
+  <circle cx="32" cy="32" r="6" fill="#f0c27a"/>
+  <path d="M20 40c4-10 8-16 12-16s8 6 12 16" fill="none" stroke="#f6f1e8" stroke-width="2"/>
+</svg>

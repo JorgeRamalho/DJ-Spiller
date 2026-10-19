@@ -1,0 +1,18 @@
+{
+  "name": "DJ Spiller — SPILER",
+  "short_name": "SPILER",
+  "description": "DJ, produtor e produtor de eventos em Curitiba.",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#0c0b0a",
+  "theme_color": "#0c0b0a",
+  "lang": "pt-BR",
+  "icons": [
+    {
+      "src": "favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}
